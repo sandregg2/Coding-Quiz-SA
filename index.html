@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>Coding Questionnaire</title>
+        <link rel="stylesheet" href="CSS/style.css">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap">
+    </head>
+
+    <body> 
+
+        <header>
+            <h4 id="view-high-scores">High Scores</h4> 
+            <h4 class="timer">timer | <span id="timer"></span></h4>
+        </header>
+
+        <div id="starter-container" class="show">
+            <div class="container start">
+                <h1>Coding Quiz</h1>  
+                <p>Correct answers are 10 points.
+                Incorrect answers = -5 points and -5 seconds
+                Good luck!
+                </p>
+                <button class="btn startend" id="start-game">Start Coding Quiz</button>
+            </div>    
+        </div>
+
+        <div id="question-container" class="hide">
+            <div class="container questions">
+                <div id="question"></div>
+                <div id="answer-buttons" class="btn-grid"></div>
+            </div>
+        </div>
+
+        <div id="end-container" class="hide">
+           <div class="container end">
+            <div id=score-banner>
+                <h1>Quiz completed!</h1>
+            </div>  
+            <form id="initials-form" class="initials">
+              <p> Enter initals
+                <input type="text" name="initials" id="initials" class="text-input" />
+                <button class="btn startend" id="sumbit-score" type="submit">Submit</button> </p>
+              </form>
+            </div>
+        </div>
+
+        <div id="high-score-container" class="hide">
+          <div class="high-scores container">
+            <h1 class="high-score"></h1>
+            <ol id="high-score-list" class="score-list"></ol>
+        <div>
+            <button class="btn" id="clear-high-scores">Clear</button>
+            <button class="btn" id="go-back">Menu</button>
+        </div>
+        </div>
+    </div>
+
+    <div class="hide" id="correct">
+        <h2>Correct!</h2>
+    </div>
+    <div class="hide" id="wrong">
+        <h2>Incorrect!</h2>
+    </div>
+
+    <script src="JS/script.js"></script> 
+
+</body>
+</html>
