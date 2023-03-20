@@ -1,7 +1,9 @@
 # Module 3 Challenge
 - This is a README for our fourth challenge for our coding bootcamp
 ## Description of challenge
-- Build a Coding Quiz website from scratch using CSS, HTML, and JavaScript
+- This week's Challenge requires us to build a Coding Quiz website from scratch using HTML, CSS, and JavaScript
+## What I did in this assignment?
+- 
 ## Our wesbite
 - https://sandregg2.github.io/CodingQuiz-challenge04-sethandregg/
 ## Images
