@@ -3,7 +3,9 @@
 ## Description of challenge
 - This week's Challenge requires us to build a Coding Quiz website from scratch using HTML, CSS, and JavaScript
 ## What I did in this assignment?
-- 
+- Used all of the JS + more I learned off the internet on this challenge
+- Took a day of my week to style and position everything so it has a clean look to it
+- Kept a clean organized code to help me get this done
 ## Our wesbite
 - https://sandregg2.github.io/CodingQuiz-challenge04-sethandregg/
 ## Images
