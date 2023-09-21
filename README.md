@@ -7,7 +7,7 @@
 - Took a day of my week to style and position everything so it has a clean look to it
 - Kept a clean organized code to help me get this done
 ## Our wesbite
-- https://sandregg2.github.io/codingquiz-challenge04-sethandregg/
+- [https://sandregg2.github.io/codingquiz-challenge04-sethandregg/](https://sandregg2.github.io/Coding-Quiz-SA/)
 ## Images
 <img width="500" alt="Screenshot 2023-03-20 154732.png" src="https://github.com/sandregg2/CodingQuiz-challenge04-sethandregg/blob/main/Assets/Screenshot%202023-03-20%20154732.png">
 <img width="500" alt="Screenshot 2023-03-20 154744.png" src="https://github.com/sandregg2/CodingQuiz-challenge04-sethandregg/blob/main/Assets/Screenshot%202023-03-20%20154744.png">
